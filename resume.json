@@ -1,0 +1,68 @@
+{
+    "basics": {
+      "name": "Sarath Kumar",
+      "label": "",
+      "picture": "",
+      "email": "sarathblu1996@gmail.com",
+      "phone": "+91 6383761630",
+      "degree": "B.E (CSE)",
+      "website": "https://jocular-gnome-812344.netlify.app/",
+      "summary": "I'm looking for career in MERN stack developer roles",
+      "location": {
+        "address": "2/3, Kurinji Street, Thangam Nagar, Municipal Colony",
+        "postalCode": "613007",
+        "city": "Thanjavur",
+        "countryCode": "+91",
+        "region": "India"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Sarath Kumar",
+          "url": "https://www.linkedin.com/in/sarath-kumar-157b3a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B63biTyt4TgKQHkGVVP%2Fh9w%3D%3D"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Careernet Solutions",
+        "position": "L1 Associate HR Consultant",
+        "website": "https://careernet.in/",
+        "startDate": "10-May-2021",
+        "endDate": "Till Date",
+        "summary": "Sourcing good profiles and delivering it to clients",
+        "highlights": [
+          "Got Careernet Superstar Award"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "P R Engineering College",
+        "area": "Bachelor of Engineering in Computer Science Engineering",
+        "studyType": "",
+        "startDate": "June 2014",
+        "endDate": "May 2018",
+        "gpa": "6.3 CGPA",
+        "courses": [
+          ""
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+          "'HTML','CSS','JavaScript','ReactJS','NodeJS','MongoDB','SQL','ExpressJS'"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil, English",
+        "fluency": "Fluent"
+      }
+    ]
+    
+  }
